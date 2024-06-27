@@ -29,10 +29,6 @@ Here's a walkthrough of implemented features:
 
 <img src='https://imgur.com/4NRNc8N' title='GIF Walkthrough' width='' alt='GIF Walkthrough' />
 
-<video>
-    <source src="https://imgur.com/4NRNc8N" type="video/mp4">
-</video>
-
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif
 
