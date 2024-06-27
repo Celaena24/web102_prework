@@ -193,3 +193,18 @@ document.getElementById('search-input').addEventListener('keyup', function() {
     addGamesToPage(new_items);
 });
 
+
+/************************************************************************************
+ * Additional feature : Smooth scrolling 
+ */
+
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+
+        document.querySelector(this.getAttribute('href')).scrollIntoView({
+            behavior: 'smooth'
+        });
+    });
+});
+
