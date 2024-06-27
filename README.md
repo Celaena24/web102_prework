@@ -19,9 +19,9 @@ The following **optional** features are implemented:
 
 * [^] List anything else that you can get done to improve the app functionality!
 
-- Added a navbar to navigate to the Stats and Our Games sections and ensured smooth scrolling.
+    - Added a navbar to navigate to the Stats and Our Games sections and ensured smooth scrolling.
 
-- Implemented a search bar that allows users to search for games they already have in mind.
+    - Implemented a search bar that allows users to search for games they already have in mind.
 
 ## Video Walkthrough
 
