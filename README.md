@@ -36,7 +36,7 @@ GIF created with ScreenToGif
 
 Describe any challenges encountered while building the app.
 
-Coming up with a good design for the application was a challenge
+ - Coming up with a good design for the application was a challenge
 
 ## License
 
