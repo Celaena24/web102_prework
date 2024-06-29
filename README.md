@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://github.com/Celaena24/web102_prework/blob/main/4NRNc8N%20-%20Imgur.gif' title='GIF Walkthrough' width='' alt='GIF Walkthrough' />
+<img src='https://github.com/Celaena24/web102_prework/blob/main/codepath_website.gif' title='GIF Walkthrough' width='' alt='GIF Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif
